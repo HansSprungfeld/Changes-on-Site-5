@@ -5,8 +5,9 @@ import pandas as pd
 
 st.set_page_config(page_title="Excel Data Processor", layout="centered")
 
-st.title("Excel Data Processor")
+st.title("Have there been any changes in site personnel? ")
 st.write("Script does not work properly when PI changes.")
+st.write("Date format should be DD.MM.YYYY")
 
 # -------------------------
 # 1. FILE UPLOAD
