@@ -9,6 +9,8 @@ st.title("Have there been any changes in site personnel? ")
 st.write("Script does not work properly when PI changes.")
 st.write("Date format should be DD.MM.YYYY")
 
+st.write("Drag and Drop your Preperation list of the visit")
+
 # -------------------------
 # 1. FILE UPLOAD
 # -------------------------
