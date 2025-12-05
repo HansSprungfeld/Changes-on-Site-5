@@ -7,7 +7,7 @@ st.set_page_config(page_title="Excel Data Processor", layout="centered")
 
 st.title("Have there been any changes in site personnel? ")
 st.write("Script does not work properly when PI changes.")
-st.write("Date format should be DD.MM.YYYY")
+st.write("Date format should be DD.MM.YYYY\n")
 
 st.write("Drag and Drop your Preperation list of the visit")
 
